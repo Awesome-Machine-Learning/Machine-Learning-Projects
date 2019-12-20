@@ -1,0 +1,1 @@
+### in order to predict the Bay area’s home prices, I choose the housing price dataset that was sourced from Bay Area Home Sales Database and Zillow. This dataset was based on the homes sold between January 2013 and December 2015. It has many characteristics of learning
